@@ -199,4 +199,4 @@ The script reads the three exported files, computes the NumPy DFT, saves seven f
 
 **Hamza Daanoun**, final-year engineering student in embedded systems, ENSA Agadir
 GitHub: https://github.com/hamzadaanoun
-LinkedIn: [TO COMPLETE]
+LinkedIn: https://www.linkedin.com/in/hamza-daanoun-7a483734a/
